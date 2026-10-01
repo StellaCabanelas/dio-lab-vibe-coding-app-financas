@@ -163,6 +163,15 @@ O Trocado permite que usuários:
 
 ---
 
+## Como acessar
+
+Clique no link:
+```
+https://trocado.lovable.app
+```
+
+---
+
 ## Tecnologias Utilizadas
 
 - Lovable
